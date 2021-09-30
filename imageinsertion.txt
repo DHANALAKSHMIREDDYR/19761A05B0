@@ -1,0 +1,8 @@
+<html>
+<body>
+<img src="desert.jpg" width="300" height="300" alt="loading image" align="center" style="border:8px solid green">
+<h1 style="border:5px dotted black">
+I M DHANALAKSHMI
+</h3>
+</body>
+</html>
